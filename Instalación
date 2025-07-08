@@ -4,5 +4,6 @@ Windows: https://www.python.org/downloads/
 Mac: https://www.python.org/downloads/macos/
 Linux/Unix: https://www.python.org/downloads/source/
 Por defecto Python instala IDLE — Python editor un IDE de programación, sin embargo, existen otros editores que podemos utilizar ver: https://wiki.python.org/moin/PythonEditors 
-De manera personal prefiero utilizar el editor Visual Studio Code, en caso de que usted desee utilizarlo, se debe instalar usando el apartado de extensiones de VSC: Python extension for Visual Studio Code de Microsoft y si usted lo desea puede incluir Python Debugger extension for Visual Studio Code
+De manera personal prefiero utilizar el editor Visual Studio Code, en caso de que usted desee utilizarlo, se debe instalar usando el apartado de extensiones de VSC: Python extension for Visual Studio Code de Microsoft
+y si usted lo desea puede incluir Python Debugger extension for Visual Studio Code
 
